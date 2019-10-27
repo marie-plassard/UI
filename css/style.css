@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Delius+Swash+Caps|Open+Sans:300|Pacifico&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 21px;
+	margin: 0px;
+}
+
+h1 { 
+	font-family: 'Delius Swash Caps', cursive;
+	font-size: 41px;
+ }
+
+h2 { 
+	font-family: 'Pacifico', cursive;
+	font-size: 35px;
+ }
+
+h3 { 
+	font-family: 'Pacifico', cursive;
+	font-size: 35px;
+	color: #8D89A6;
+ }
+
+ h4 { 
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	flex-grow: 1;
+	padding-left: 10px;
+ }
+
+ a{
+ 	text-decoration: none;
+ }
